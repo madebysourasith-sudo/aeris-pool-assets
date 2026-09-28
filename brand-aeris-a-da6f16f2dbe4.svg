@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 72" fill="none" role="img" aria-label="AERIS POOL — three-dimensional A logo">
+<g stroke="#29372f" stroke-width="1.6" stroke-linejoin="round">
+<path d="M12 62L29 16H43L60 62L71 54L54 8H40L23 54Z" fill="#c4c9bc"/>
+<path d="M29 16L40 8H54L43 16Z" fill="#e0e4d7"/>
+<path d="M43 16L54 8L71 54L60 62Z" fill="#879585"/>
+<path d="M44 51L55 43L59 54L48 62Z" fill="#849181"/>
+<path d="M26 51L37 43H55L44 51Z" fill="#d9dfd0"/>
+<path class="aeris-logo-face" fill-rule="evenodd" d="M12 62L29 16H43L60 62H48L44 51H26L22 62ZM30 40H40L35 25Z" fill="#f4f4e9"/>
+<path d="M30 40L38 34L35 25M38 34L40 40" fill="#c1caba"/>
+</g></svg>
